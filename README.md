@@ -44,9 +44,9 @@ Welcome to my GitHub profile. I'm passionate about Software Engineering.
 
 ## 🌟 Featured Repositories
 
-- [Interview Evaluation System]https://github.com/sujanMidatani7/InterviewEvaluationSystem
-- [Sentiment Analysis of Agnipath Yojna]https://github.com/sujanMidatani7/Sentiment_Analysis_On_Agnipath_Scheme
-- [Test Translator (Full Stack Application)]https://github.com/sujanMidatani7/TextTranslator
+- [Interview Evaluation System](https://github.com/sujanMidatani7/InterviewEvaluationSystem)
+- [Sentiment Analysis of Agnipath Yojna](https://github.com/sujanMidatani7/Sentiment_Analysis_On_Agnipath_Scheme)
+- [Test Translator (Full Stack Application)](https://github.com/sujanMidatani7/TextTranslator)
 
 Feel free to explore my repositories and don't hesitate to reach out!
 
