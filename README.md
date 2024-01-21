@@ -40,13 +40,13 @@ Welcome to my GitHub profile. I'm passionate about Software Engineering.
 
 ## 📊 GitHub Stats
 
-[https://github-readme-stats.vercel.app/api?username=sujanMidatani7&show_icons=true&count_private=true&hide=contribs)](https://github.com/sujanMidatani7)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sujanMidatani7&show_icons=true&count_private=true&hide=contribs)](https://github.com/sujanMidatani7)
 
 ## 🌟 Featured Repositories
 
-- https://github.com/sujanMidatani7/InterviewEvaluationSystem
-- https://github.com/sujanMidatani7/Sentiment_Analysis_On_Agnipath_Scheme
-- https://github.com/sujanMidatani7/TextTranslator
+- [Interview Evaluation System]https://github.com/sujanMidatani7/InterviewEvaluationSystem
+- [Sentiment Analysis of Agnipath Yojna]https://github.com/sujanMidatani7/Sentiment_Analysis_On_Agnipath_Scheme
+- [Test Translator (Full Stack Application)]https://github.com/sujanMidatani7/TextTranslator
 
 Feel free to explore my repositories and don't hesitate to reach out!
 
