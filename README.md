@@ -21,15 +21,18 @@ Welcome to my GitHub profile. I'm passionate about Software Engineering.
     - Pinecone Vector Database
     - PostGreSQL
     - MongoDB
-    - Waveate Vector DB
+    - Weaviate Vector DB
 - GIT & GITHUB
-- Docker Technology 
+- Docker Technology
+- FastAPI
+- Flask
+- poetry dependency manager
 - AWS
 
 
 ## 🌱 Current Projects
 
-- Virtual Interview API
+- Virtual Interview Mock Test Platform
 - Ielts Essay Grader
 - Online Student certification Portal
 
@@ -46,7 +49,7 @@ Welcome to my GitHub profile. I'm passionate about Software Engineering.
 
 - [Interview Evaluation System](https://github.com/sujanMidatani7/InterviewEvaluationSystem)
 - [Sentiment Analysis of Agnipath Yojna](https://github.com/sujanMidatani7/Sentiment_Analysis_On_Agnipath_Scheme)
-- [Test Translator (Full Stack Application)](https://github.com/sujanMidatani7/TextTranslator)
+- [Text Translator (Full Stack Application)](https://github.com/sujanMidatani7/TextTranslator)
 
 Feel free to explore my repositories and don't hesitate to reach out!
 
