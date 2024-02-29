@@ -43,7 +43,7 @@ Welcome to my GitHub profile. I'm passionate about Software Engineering.
 
 ## 📊 GitHub Stats
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sujanMidatani7&show_icons=true&count_private=true&hide=contribs)](https://github.com/sujanMidatani7)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sujanMidatani7&show_icons=true&count_private=true)](https://github.com/sujanMidatani7)
 
 ## 🌟 Featured Repositories
 
