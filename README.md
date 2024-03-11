@@ -3,7 +3,7 @@
 Welcome to my GitHub profile. I'm passionate about Software Engineering.
 
 ## Lnguages Used 
-(![sujanMidatani7's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujanMidatani7&theme=highcontrast&show_icons=true&hide_border=false&layout=compact))
+![sujanMidatani7's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujanMidatani7&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
 
 ## 🚀 About Me
 
