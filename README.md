@@ -7,8 +7,8 @@ Welcome to my GitHub profile. I'm passionate about Software Engineering.
 
 ## 🚀 About Me
 
-- 💼 Working as Prodcut Development Intern at Enligence Technologies
-- 🎓 B-Tech pre-final year (Computer Science and Engineering) from Vishnu Institute of Technlogy
+- 💼 Working as SDE Intern at Techscholars 
+- 🎓 B-Tech final year (Computer Science and Engineering) from Vishnu Institute of Technlogy
 - 🌱 I’m currently learning DSA
 - 💬 Ask me about LLM and Prompt Engineering
 - 📫 How to reach me: sujanmidatani7@gmail.com 
