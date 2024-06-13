@@ -7,7 +7,7 @@ Welcome to my GitHub profile. I'm passionate about Software Engineering.
 
 ## 🚀 About Me
 
-- 💼 Working as SDE Intern at Techscholars 
+- 💼 Working as Machine Learning at Twimbit 
 - 🎓 B-Tech final year (Computer Science and Engineering) from Vishnu Institute of Technlogy
 - 🌱 I’m currently learning DSA
 - 💬 Ask me about LLM and Prompt Engineering
@@ -15,29 +15,19 @@ Welcome to my GitHub profile. I'm passionate about Software Engineering.
 
 ## 🔧 Technologies & Tools
 
-- Highly fluent in Python and Java
-- Comfortable with C and c++.
-- Familiar with Node.js, JavaScript.
-- Worked with HTML5, CSS, and SQL
-- Experienced with
-    - Google's Firebase
-    - Pinecone Vector Database
-    - PostGreSQL
-    - MongoDB
-    - Weaviate Vector DB
-- GIT & GITHUB
-- Docker Technology
-- FastAPI
-- Flask
-- poetry dependency manager
-- AWS
+- Programming Languages: Python, Core Java, C, C++ 
+- Web Development: Node.JS, JavaScript, ExpressJs, HTML5, CSS 
+- Databases: MongoDB, PostgreSQL, Google Firebase, SQL, Pinecone, Waveate Vector Database 
+- AI and ML: Large Language Models, Natural Language Processing, Prompt Engineering, PyTorch, Scikit-Learn, Scipy, 
+Pandas, NumPy, Object-Oriented Programming, Generative AI, Hugging Face, LangChain, Microsoft Guidance 
+- Frameworks & Libraries: FastAPI, Flask, Docker 
+- Dependency Manager’s: PIP, Poetry, NPM 
+- Version Control, Tools & Technologies: Git, GitHub, GitHub Actions, CI/CD, Research, Gradio, Streamlit 
 
 
 ## 🌱 Current Projects
 
-- Virtual Interview Mock Test Platform
-- Ielts Essay Grader
-- Online Student certification Portal
+- The Chatters
 
 ## 🤝 Connect with Me
 
