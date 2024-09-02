@@ -12,6 +12,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=sujanmidatani7&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sujanmidatani7&theme=github_dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sujanmidatani7&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 ![Profile  views](https://komarev.com/ghpvc/?username=sujanmidatani7&label=Profile%20views&color=blue&style=for-the-badge)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sujanmidatani7&theme=radical&no-frame=false&no-bg=true&margin-w=4)
