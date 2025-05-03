@@ -1,5 +1,5 @@
 # 💫 About Me
-💼 Working as Machine Learning Engineer at Twimbit<br>🎓 B-Tech final year (Computer Science and Engineering) from Vishnu Institute of Technlogy<br>🌱 I’m currently practicing DSA<br>💬 Ask me about AI and Python backend development<br>📫 How to reach me: sujanmidatani7@gmail.com
+💼 Working as Machine Learning Engineer at Twimbit<br>💬 Ask me about AI and Python backend development<br>📫 How to reach me: sujanmidatani7@gmail.com
 
 
 ## 🌐 Socials
